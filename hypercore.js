@@ -1,0 +1,1 @@
+const hypercore = require('hypercore')
